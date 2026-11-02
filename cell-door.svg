@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 400" fill="none">
+  <defs>
+    <linearGradient id="spill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f2c230" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#f2c230" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M40 20h240v350H40Z" fill="#101316" stroke="#4a545a" stroke-width="6"/>
+  <path d="M214 26h60v338h-60Z" fill="#f2c230"/>
+  <path d="M214 364h60l46 36H214Z" fill="url(#spill)"/>
+  <path d="M46 26h168v338H46Z" fill="#2b3237"/>
+  <path d="M46 26h168v338H46Z" stroke="#4a545a" stroke-width="2"/>
+  <path d="M72 64h116v76H72Z" fill="#101316" stroke="#4a545a" stroke-width="3"/>
+  <path d="M84 170h92v46H84Z" fill="#e8ebe6"/>
+  <text x="130" y="203" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="30" font-weight="700" fill="#14171a">G-37</text>
+  <path d="M190 262h14v44h-14Z" fill="#6c777d"/>
+  <path d="M46 336h168v28H46Z" fill="#14171a"/>
+  <path d="M52 364l28-28h20l-28 28Zm40 0 28-28h20l-28 28Zm40 0 28-28h20l-28 28Zm40 0 28-28h14v6l-22 22Z" fill="#f2c230"/>
+</svg>
