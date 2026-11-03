@@ -1,15 +1,15 @@
-# Brick Sort — Website and Store Details
+# Brick Color Sort — Website and Store Details
 
 ## Identity and addresses
 
-- Game name: **Brick Sort** (working name; `project.godot` still says `brick-sort`)
-- Android package: `com.cukkacreatives.bricksort` (planned; no `export_presets.cfg` yet)
+- Game name: **Brick Color Sort: 3D Puzzle** (store and `project.godot`; short form "Brick Color Sort")
+- Android package: `com.cukkacreatives.brick.sort.puzzle` (set in `export_presets.cfg`)
 - Public web repo: https://github.com/durdenk/brick-sort-web
 - Site: https://durdenk.github.io/brick-sort-web/
 - Privacy: https://durdenk.github.io/brick-sort-web/privacy-policy.html
 - Terms: https://durdenk.github.io/brick-sort-web/terms-of-use.html
 - Data deletion: https://durdenk.github.io/brick-sort-web/privacy-policy.html#data-deletion
-- Google Play: https://play.google.com/store/apps/details?id=com.cukkacreatives.bricksort
+- Google Play: https://play.google.com/store/apps/details?id=com.cukkacreatives.brick.sort.puzzle
 - Developer: Cukka Creatives / Sait Maraslioglu
 - Support: cukkacreatives@gmail.com
 
@@ -30,7 +30,7 @@ is the current draft.
 - Ads: interstitial ads (for example between levels) and optional rewarded
   ads. The benefit of a rewarded ad is shown before the player chooses to
   watch it.
-- In-app purchases: coin packs, bundles of coins and boosts, and a one-time
+- In-app purchases: coin packs and a one-time
   Remove Ads product. Remove Ads removes non-rewarded ads only; rewarded ads
   stay optional. Prices and contents are shown on the purchase screen.
 

@@ -1,4 +1,4 @@
-# Brick Sort — Website
+# Brick Color Sort — Website
 
 The game's English landing, privacy and terms pages. Plain static files: no
 framework, package install, build step or runtime API calls.
@@ -8,9 +8,8 @@ framework, package install, build step or runtime API calls.
 - Privacy: https://durdenk.github.io/brick-sort-web/privacy-policy.html
 - Terms of use: https://durdenk.github.io/brick-sort-web/terms-of-use.html
 - Data deletion: https://durdenk.github.io/brick-sort-web/privacy-policy.html#data-deletion
-- Android package ID: `com.cukkacreatives.bricksort` (planned; there is no
-  `export_presets.cfg` yet. If the export uses another ID, update the Google
-  Play links in `index.html` and `info.md`.)
+- Android package ID: `com.cukkacreatives.brick.sort.puzzle` (set in
+  `export_presets.cfg`; it never changes after the first Play upload)
 - Contact: cukkacreatives@gmail.com
 
 More identity details are in [info.md](info.md). Store texts live in
@@ -55,9 +54,10 @@ public repo or the live site by itself.
 ## Ads and data disclosures
 
 The game will show ads (AdMob: interstitial and optional rewarded ads) and
-sell optional in-app purchases through Google Play Billing (coin packs, coin
-and boost bundles, a one-time Remove Ads). None of these are integrated yet;
-the pages describe the planned release.
+sell optional in-app purchases through Google Play Billing (coin packs and a
+one-time Remove Ads). Rewarded ads with the consent flow are integrated;
+interstitial ads, in-app purchases, GameAnalytics and in-app review are
+planned for the release, and the pages describe that release.
 
 `app-ads.txt` holds the developer's AdMob publisher ID. Before release, check
 it against the AdMob account used for this game. AdMob looks for
